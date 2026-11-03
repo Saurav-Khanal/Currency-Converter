@@ -84,3 +84,10 @@ button {
   justify-content: center;
   gap:10px;
 }
+
+#errorMessage{
+  font-size: 25px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color:red;
+  font-weight: 800;
+}
