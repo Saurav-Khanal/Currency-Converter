@@ -11,7 +11,6 @@ app.get("/",(req,res)=>{
 
 app.post("/converter",(req,res)=>{
     let{amount,fromCurrency,toCurrency}=req.body
-    console.log(fromCurrency);
     if(amount<0){
         return res.status(400).json({
             message:"Amount must be in positive"
