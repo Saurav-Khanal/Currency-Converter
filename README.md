@@ -1,5 +1,5 @@
 # Currency-Converter
-This is the site where people can convert one currency money to another currency money with the current exchange rate.
+This is the site where people can convert one currency money to another currency money with the current exchange rate. for now i have add only 9 countries.
 
 here's an AWESOME gif of my project!
 ![StatusCode Explorer Demo](./moneyconverting.gif);
