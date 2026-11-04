@@ -2,7 +2,7 @@
 This is the site where people can convert one currency money to another currency money with the current exchange rate. for now i have add only 9 countries.
 
 here's an AWESOME gif of my project!
-![StatusCode Explorer Demo](./moneyconverting.gif);
+![Currency Converter Demo](./moneyconverting.gif)
 
 ## HOW THIS WAS MADE
 I made this because people often need to convert one currency money to another.and i also want to build something that can be used in daily life.And want to sharp by backend and frontend skill also so i think of making this to see how api work and deliver things to frontend .
@@ -20,6 +20,28 @@ it simply helps us to convert one currency money to another currency with exact 
 
 ## Demo Link
 [Here is live demo of my project](https://currency-converter-azure-one.vercel.app/index.html)
+
+### Development
+
+1. Clone the source code to your device
+```sh
+git clone https://github.com/Saurav-Khanal/Currency-Converter.git
+```
+
+2. Install the project's dependencies
+```sh
+npm install
+```
+
+3. Start the development server on `localhost:3000`
+```sh
+node server.js
+```
+
+4. Open the project in your browser
+```sh
+http://localhost:3000
+```
 
 ## Screenshots
 ![Homepage](./currencyConverter.png);
